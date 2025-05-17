@@ -5,7 +5,7 @@ export default function Home() {
   return (
   <div>
   <h1>Welcome to My Next.js App!</h1>
-  <p>This is the homepage customized by [Your Name].</p>
+  <p>This is the homepage customized by Jan Tripolca.</p>
   <Link href='/about'>about</Link>
   </div>
   );
